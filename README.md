@@ -91,8 +91,8 @@ Suggested actionable recommendations for business improvement.
 
 Clone this repository:
 
-git clone https://github.com/Mohit_bhanse/data-analytics-project.git
-cd data-analytics-project
+git clone [https://github.com/Mohit_bhanse/data-analytics-project.git
+cd data-analytics-project](https://github.com/mohitbhanse/Customer-shopping-behavior-analysis)
 
 
 Open the Jupyter Notebook or Python script and run it step-by-step.
@@ -108,5 +108,5 @@ Review the Gamma presentation and project report for final insights.
 Author: Mohit Bhanse
 Email: mohitbhanse31@gmail.com
 ]
-LinkedIn: [linkedin.com/in/yourprofile]
-GitHub: [github.com/yourusername]
+LinkedIn: https://www.linkedin.com/in/mohitbhanse/
+GitHub: github.com/Mohit_bhanse
